@@ -1,0 +1,12 @@
+main {
+    margin-top: 20px;
+}
+
+.folder-active {
+    background-color: lightgreen;
+}
+
+.todo-list {
+    color: black;
+    text-decoration: none;
+}
